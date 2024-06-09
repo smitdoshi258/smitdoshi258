@@ -1,6 +1,6 @@
+<img align="center" height="2000" width="350" alt="coding" src="smit.jpg">
 <h1 align="center">Hi 👋, I'm Smit Doshi</h1>
 <h3 align="center">A junior passionate web developer from India</h3>
-<img align="center" width="400" alt="coding" src="smit.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitdoshi258&label=Profile%20views&color=0e75b6&style=flat" alt="smitdoshi258" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitdoshi258" alt="smitdoshi258" /></a> </p>
