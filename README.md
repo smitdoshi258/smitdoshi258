@@ -1,4 +1,4 @@
-<img align="center" height="2000" width="350" alt="coding" src="smit.jpg">
+<img align="center" height="350" width="2000" alt="coding" src="smit.jpg">
 <h1 align="center">Hi 👋, I'm Smit Doshi</h1>
 <h3 align="center">A junior passionate web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitdoshi258&label=Profile%20views&color=0e75b6&style=flat" alt="smitdoshi258" /> </p>
