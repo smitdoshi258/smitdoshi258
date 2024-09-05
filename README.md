@@ -16,7 +16,6 @@
 - 💬 Ask me about **AI and WEB DEVELOPER**
 
 - 📫 How to reach me **smithetu99@gmail.com**
-https://iili.io/dk7sYRj.png
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/b5bBhJnH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/b5bBhJnH" height="30" width="40" /></a>
